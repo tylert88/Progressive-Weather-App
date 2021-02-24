@@ -1,6 +1,6 @@
 # Your first Progressive Web App Code Lab
 
-## View Demo [HERE](https://tylers-weather.firebaseapp.com/)
+
 
 
 ## What you’ll learn
